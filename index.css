@@ -1,0 +1,36 @@
+body {
+    font-family: Inria Serif;
+}
+
+.heading-1 {
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.heading-2 {
+    text-align: left;
+    font-size: 24px;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+
+.heading-3 {
+    text-align: left;
+    font-size: 22px;
+    font-weight: 500;
+    margin-bottom: 10px;
+}
+
+
+
+img {
+    width: 60%;
+}
+
+.image-container {
+    display: flex;
+    justify-content: center;
+}
