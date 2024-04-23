@@ -36,3 +36,7 @@ img {
     display: flex;
     justify-content: center;
 }
+
+p {
+    line-height: 24px;
+}
